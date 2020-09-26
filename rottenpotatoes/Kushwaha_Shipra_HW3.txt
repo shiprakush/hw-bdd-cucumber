@@ -1,2 +1,2 @@
 https://github.com/shiprakush/hw-bdd-cucumber
-https://github.com/shiprakush/hw-bdd-cucumber/tree/master/rottenpotatoes/log
+https://github.com/shiprakush/hw-bdd-cucumber/blob/master/rottenpotatoes/cucumber_logs.txt
